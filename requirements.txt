@@ -1,0 +1,25 @@
+# Core packages
+numpy
+pandas
+
+# Visualization (for EDA)
+matplotlib
+seaborn
+
+# Text processing
+nltk
+scikit-learn
+
+# Optional (for text preprocessing)
+beautifulsoup4
+lxml
+
+# Notebook (if you're using Jupyter)
+jupyter
+
+# Optional model explainability
+lime
+
+# Save models
+joblib
+
